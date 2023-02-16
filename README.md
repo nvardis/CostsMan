@@ -1,4 +1,2 @@
 # CostsMan
-# CostsMan
-# CostsMan
-# CostsMan
+React based project for Costs Manager app
